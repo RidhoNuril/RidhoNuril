@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 About Me
+### 👤 About Me
 
 - **Current Focus:** Deepening my knowledge in *Full-Stack Web Development* using a modern ecosystem (**React.js & Laravel 11**) as well as the fundamentals of *Machine Learning*.
 - **Active Learning:** Exploring web architecture, efficient API integration, data structures, and sentiment analysis using **Python**.
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 💻 Tech Stack & Tools
 
 <p align="left">
   <!-- Frontend -->
@@ -38,9 +38,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhoNuril&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
 </p>
 
----
-
-### 🎮 Contribution Activity
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-contribution-grid-snake.svg" />

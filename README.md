@@ -17,8 +17,6 @@
 
 ### 🛠️ Tech Stack & Tools
 
-Prefer visuals over text? Here are some of the technologies I frequently use in my projects:
-
 <p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -36,11 +34,6 @@ Prefer visuals over text? Here are some of the technologies I frequently use in 
 ---
 
 ### 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RidhoNuril&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=RidhoNuril&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhoNuril&theme=tokyonight&hide_border=true" alt="Contribution Streak" />

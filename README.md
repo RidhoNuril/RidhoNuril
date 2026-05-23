@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhoNuril&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Pemrograman" height="165" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RidhoNuril&theme=tokyonight&hide_border=true" alt="Streak Kontribusi" />
 </p>
 

@@ -10,7 +10,6 @@
 
 - **Current Focus:** Deepening my knowledge in *Full-Stack Web Development* using a modern ecosystem (**React.js & Laravel 11**) as well as the fundamentals of *Machine Learning*.
 - **Active Learning:** Exploring web architecture, efficient API integration, data structures, and sentiment analysis using **Python**.
-- **Performance Optimization:** Passionate about system tuning and optimization, whether it's refining lines of code or tweaking hardware configurations.
 - **Discussion:** Always open to exchanging ideas about programming logic, web development, or software optimization.
 
 ---
@@ -42,13 +41,11 @@
 ---
 
 ### 🎮 Contribution Activity
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RidhoNuril/RidhoNuril/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
----
 
 ### 📫 Connect with Me
 
